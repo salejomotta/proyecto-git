@@ -1,3 +1,4 @@
-1.- Creado diario
-2.- Actualizado diario Sarosi
-3.- Tu diario
+    Actividad:
+1.- Escribe una rutina en el diario de alumno
+2.- Actualizado diario personal de Sarosi
+3.- Utiliza lo aprendido en el curso de Git
